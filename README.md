@@ -1,8 +1,8 @@
-# Cron Expression Explainer
+# Cron Plain English Reader
 
 This tool reads a standard five-field cron expression, minute, hour, day of month, month, and day of week, and explains it in plain English, field by field and as one sentence. It supports stars, steps, ranges, lists, and named months and weekdays.
 
-**Live demo:** https://0xelitesystem.github.io/cron-expression-explainer/
+**Live demo:** https://0xelitesystem.github.io/cron-plain-english-reader/
 
 ## What it does
 
@@ -36,8 +36,8 @@ Open `index.html` in any modern browser, or host it as a static page. No build s
 To get your own copy:
 
 ```
-git clone https://github.com/0xelitesystem/cron-expression-explainer
-cd cron-expression-explainer
+git clone https://github.com/0xelitesystem/cron-plain-english-reader
+cd cron-plain-english-reader
 ```
 
 Then open `index.html` directly, or serve the folder with `python -m http.server` and visit http://localhost:8000/.
